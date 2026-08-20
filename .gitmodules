@@ -1,0 +1,6 @@
+[submodule "recipe-catalog-service"]
+	path = recipe-catalog-service
+	url = https://github.com/DilmiSandamini/recipe-catalog-service.git
+[submodule "recipe-user-service"]
+	path = recipe-user-service
+	url = https://github.com/DilmiSandamini/recipe-user-service.git
