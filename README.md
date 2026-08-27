@@ -7,7 +7,7 @@
 * **GCP Project ID:** flavoriz-app-new
 
 ## Project Description
-This repository contains the core business microservices for the Flavoriz application. It includes functional services such as the User Service and other related microservices, demonstrating both relational and non-relational database integrations[cite: 1].
+This repository contains the core business microservices for the Flavoriz application. It includes functional services such as the User Service and other related microservices, demonstrating both relational and non-relational database integrations.
 
 ## Technology Stack
 * Java 25
